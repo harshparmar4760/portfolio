@@ -180,7 +180,7 @@ nav ul li a:hover::after{
     background: #ff004f;
     transform: translateY(-10px);
 }
-/*-- -----------------------Portfolio/ achievment---------------------  */
+/*-- -----------------------Portfolio/ achievements---------------------  */
 #portfolio{
     padding: 0px 0; 
 }
@@ -318,7 +318,7 @@ nav ul li a:hover::after{
     opacity: 0;
     background: #373737;
     border-radius: 10px;
-    transition: opasity 0.2s;
+    transition: opacity 0.2s;
 }
 
 .link:hover::before {
